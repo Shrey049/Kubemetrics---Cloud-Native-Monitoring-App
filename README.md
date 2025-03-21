@@ -19,17 +19,17 @@ KubeMetrics is a cloud-native monitoring application designed to track CPU and M
 
 🛠️ Tech Stack
 
-Programming Language: Python (Flask, psutil)
+- Programming Language: Python (Flask, psutil)
 
-Containerization: Docker
+- Containerization: Docker
 
-Orchestration: Kubernetes
+- Orchestration: Kubernetes
 
-Metrics Collection: Prometheus
+- Metrics Collection: Prometheus
 
-Visualization: Grafana
+- Visualization: Grafana
 
-Deployment: Helm Charts
+- Deployment: Helm Charts
 
 🚀 Quick Start Guide
 
