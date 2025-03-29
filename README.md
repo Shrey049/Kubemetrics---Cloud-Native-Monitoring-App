@@ -1,5 +1,9 @@
 <img width="580" alt="memory-utilization" src="https://github.com/user-attachments/assets/a4b97983-ae0c-4487-a820-a81be57a4728" />
-![CPU-Utilization](https://github.com/user-attachments/assets/74bf8ba6-18f8-4d8a-920f-66cd32c63d99)
+
+<img width="580" alt="cpu-utilization" src="https://github.com/user-attachments/assets/74bf8ba6-18f8-4d8a-920f-66cd32c63d99" />
+
+
+
 # Kubemetrics---Cloud-Native-Monitoring-App
 📌 Project Overview
 
